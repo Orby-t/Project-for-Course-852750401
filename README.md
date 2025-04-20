@@ -3,7 +3,7 @@ https://drive.google.com/drive/folders/1m2_UIrBUTkNdJHfOT6hgVu_jDV-pdX9R?usp=dri
 
 __"Creator":__
 
-Trains an lstm model to predict time series of EEG data of requested patients ('Healthy', 'AD', 'FTD')
+Trains an LSTM model to predict time series of EEG data of requested patients ('Healthy', 'AD', 'FTD')
 
 __"Tester":__
 
